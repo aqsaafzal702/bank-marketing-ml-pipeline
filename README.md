@@ -1,4 +1,4 @@
-# 💼 Bank Customer Subscription Prediction
+# Bank Customer Subscription Prediction
 
 A machine learning classification project using Scikit-learn pipelines to predict whether a customer will subscribe to a term deposit — based on the **UCI Bank Marketing Dataset**.
 
